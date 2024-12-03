@@ -1,0 +1,92 @@
+# Build Folders
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# Logs and Debugging
+*.log
+*.tlog
+*.pdb
+
+# Visual Studio
+.vs/
+.vscode/
+.idea/
+*.code-workspace
+
+# Rider
+.idea/
+*.iml
+
+# DotNet SDK
+project.lock.json
+project.fragment.lock.json
+artifacts/
+project.assets.json
+msbuild.log
+msbuild-*.log
+
+# Web Files
+node_modules/
+dist/
+wwwroot/
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.old
+*.swp
+*.swo
+
+# Other
+_ReSharper.Caches/
+*.orig
+*.log
+*.diff
+*.patch
+*.rej
+*.class
+*.pyc
+*.exe
+*.dll
+
+# IDE Settings
+*.resharper-user
+*.resharperoptions
+
+# JetBrains Rider
+.idea/
+.idea/*
+
+# Local Environment
+.env
+.env.*
+
+# Coverlet coverage files
+coverage.opencover.xml
+coverage.cobertura.xml
+
+# Azure Pipelines
+*.coverage
+*.coveragexml
